@@ -1,0 +1,8 @@
+{
+  "name": "Barcode",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
